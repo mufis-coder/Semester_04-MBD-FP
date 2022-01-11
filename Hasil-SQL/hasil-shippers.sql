@@ -1,0 +1,18 @@
+INSERT INTO shippers VALUES (7, 'Rose-Lewis', '878.822.7976x9511');
+INSERT INTO shippers VALUES (8, 'Hammond LLC', '(992)161-7521x14327');
+INSERT INTO shippers VALUES (9, 'Powers PLC', '065-039-6506');
+INSERT INTO shippers VALUES (10, 'Barton-Mccoy', '+1-513-321-8996');
+INSERT INTO shippers VALUES (11, 'Villarreal LLC', '581-162-7367x29860');
+INSERT INTO shippers VALUES (12, 'Murphy Group', '940-001-0449');
+INSERT INTO shippers VALUES (13, 'Hudson LLC', '076.444.3605x17213');
+INSERT INTO shippers VALUES (14, 'Ray and Sons', '+1-851-250-3335');
+INSERT INTO shippers VALUES (15, 'Mcmillan PLC', '976-245-9570x58371');
+INSERT INTO shippers VALUES (16, 'Olson, Elliott and Snyder', '+1-334-912-6742x9184');
+INSERT INTO shippers VALUES (17, 'Kline-Morris', '+1-057-342-1599');
+INSERT INTO shippers VALUES (18, 'Humphrey Ltd', '181.760.4868');
+INSERT INTO shippers VALUES (19, 'Baldwin-Harper', '+1-878-862-5032x459');
+INSERT INTO shippers VALUES (20, 'Porter-Mclaughlin', '001-108-825-8255');
+INSERT INTO shippers VALUES (21, 'Henry, Waters and Holloway', '001-228-220-5733');
+INSERT INTO shippers VALUES (22, 'Cabrera-Johnson', '940.717.2333x9548');
+INSERT INTO shippers VALUES (23, 'Smith Group', '234-944-6232x3934');
+INSERT INTO shippers VALUES (24, 'Medina PLC', '5725522932');
