@@ -4,11 +4,14 @@ Repository untuk menyimpan code keperluan Final Pratikum mata kuliah MBD
 
 ## Penjelasan Folder
 
-1. Folder ```./Code```
+- Folder ```./Code```
 
 Berisi code untuk mengenerate data menggunakan library Faker dengan bahasa python
 
-2. Folder ```./Hasil-SQL```
+- Folder ```./Hasil-SQL```
 
 Berisi data hasil generate dengan format SQL, tetapi masih belum fix apakah nantinya data akan dipakai atau tidak. 
 
+- Folder ```./Hasil-CSV```
+
+Berisi data hasil generate dengan format CSV, tetapi masih belum fix apakah nantinya data akan dipakai atau tidak. 
