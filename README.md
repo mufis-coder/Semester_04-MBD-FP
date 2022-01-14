@@ -15,3 +15,7 @@ Berisi data hasil generate dengan format SQL, tetapi masih belum fix apakah nant
 - Folder ```./Hasil-CSV```
 
 Berisi data hasil generate dengan format CSV, tetapi masih belum fix apakah nantinya data akan dipakai atau tidak. 
+
+- Folder ```./Hasil-Fix-SQL```
+
+Berisi data hasil generate dengan format SQL, serta datanya telah fix akan dipakai di FP-MBD.
