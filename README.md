@@ -19,3 +19,9 @@ Berisi data hasil generate dengan format CSV, tetapi masih belum fix apakah nant
 - Folder ```./Hasil-Fix-SQL```
 
 Berisi data hasil generate dengan format SQL, serta datanya telah fix akan dipakai di FP-MBD.
+
+//TODO - Folder ```./Hasil-Fix-CSV```
+
+- Folder ```./Hasil-Pihak-Ketiga```
+
+Berisi data hasil generate menggunakan api-web pihak ketiga.
