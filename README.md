@@ -4,7 +4,7 @@ Repository untuk menyimpan code keperluan Final Pratikum mata kuliah MBD
 
 ## Penjelasan Folder
 
-- Folder ```./Code```
+- Folder ```./Code-Generator```
 
 Berisi code untuk mengenerate data menggunakan library Faker dengan bahasa python
 
