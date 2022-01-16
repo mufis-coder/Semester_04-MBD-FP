@@ -12,6 +12,10 @@ Berisi code untuk mengenerate data menggunakan library Faker dengan bahasa pytho
 
 Berisi code query postgresql untuk FP-MBD
 
+- Folder ```./Code-Query/Util```
+
+Berisi file utility untuk membantu ketika presentasi query di FP-MBD
+
 - Folder ```./Hasil-SQL```
 
 Berisi data hasil generate dengan format SQL, tetapi masih belum fix apakah nantinya data akan dipakai atau tidak. 
