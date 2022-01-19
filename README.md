@@ -4,6 +4,10 @@ Repository untuk menyimpan code keperluan Final Pratikum mata kuliah MBD
 
 ## Penjelasan Folder
 
+- Folder ```./CDM-PDM```
+
+Berisi file-file cdm dan pdm yang dibuat menggunakan software power designer
+
 - Folder ```./Code-Generator```
 
 Berisi code untuk mengenerate data menggunakan library Faker dengan bahasa python
