@@ -1,0 +1,5 @@
+INSERT INTO order_details VALUES (1054651, 54, 24.82, 52, 0.0);
+INSERT INTO order_details VALUES (611226, 12, 232.98, 42, 0.0);
+INSERT INTO order_details VALUES (470470, 56, 29.85, 72, 0.0);
+INSERT INTO order_details VALUES (1273903, 45, 153.64, 29, 0.0);
+INSERT INTO order_details VALUES (983634, 14, 82.27, 42, 0.0);
